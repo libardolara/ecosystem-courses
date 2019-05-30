@@ -60,6 +60,18 @@ Para desarrollar el registro de un incidente de un cliente de una  aseguradora e
 
 **Enlace:** 		https://github.com/libardolara/watson-studio
 
+## Busquedas cognitivas con Watson Discovery
+
+### Pre-requisitos para los talleres:
+*	Experiencia en desarrollo
+*	Tener una cuenta en IBM Cloud: https://cloud.ibm.com
+
+**Objetivo:** Introducir elementos basicos del servicio de Watson Discovery como motor de busqueda cognitiva, explorando las capacidades de conecividad a fuentes de datos, enriquecimientos de lenguaje natural y busquedas de lenguaje natural o estructuradas.
+
+**Duración:** 1h y 30 mins
+
+**Enlace:** 		https://github.com/libardolara/w-discovery
+
 ## IoT Platform y Aplicaciones
 
 ### Pre-requisitos para los talleres:
@@ -74,14 +86,4 @@ Para desarrollar el registro de un incidente de un cliente de una  aseguradora e
 
 **Enlace:** 		https://github.com/libardolara/iot-plantas
 
-## Busquedas cognitivas con Watson Discovery
 
-### Pre-requisitos para los talleres:
-*	Experiencia en desarrollo
-*	Tener una cuenta en IBM Cloud: https://cloud.ibm.com
-
-**Objetivo:** Introducir elementos basicos del servicio de Watson Discovery como motor de busqueda cognitiva, explorando las capacidades de conecividad a fuentes de datos, enriquecimientos de lenguaje natural y busquedas de lenguaje natural o estructuradas.
-
-**Duración:** 1h
-
-**Enlace:** 		https://github.com/libardolara/w-discovery
