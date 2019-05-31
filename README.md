@@ -66,7 +66,7 @@ Para desarrollar el registro de un incidente de un cliente de una  aseguradora e
 *	Experiencia en desarrollo
 *	Tener una cuenta en IBM Cloud: https://cloud.ibm.com
 
-**Objetivo:** Introducir elementos basicos del servicio de Watson Discovery como motor de busqueda cognitiva, explorando las capacidades de conecividad a fuentes de datos, enriquecimientos de lenguaje natural y busquedas de lenguaje natural o estructuradas.
+**Objetivo:** Introducir elementos basicos del servicio de Watson Discovery como motor de busqueda cognitiva, explorando las capacidades de conectividad a fuentes de datos, enriquecimientos de lenguaje natural y busquedas de lenguaje natural o estructuradas.
 
 **Duración:** 1h y 30 mins
 
