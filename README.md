@@ -7,6 +7,7 @@ Estos son los cursos pare el ecosistema de IBM en hispanoamerica como introducci
 ### Pre-requisitos para los talleres:
 *	Experiencia en desarrollo
 *	Tener una cuenta en IBM Cloud: https://cloud.ibm.com
+* [IBM Cloud CLI](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use): CLI para desplegar servicios y aplicaciones desde la terminal.
 
 **Objetivo:** Introducción a los servicios de IBM para el despliegue de aplicaciones y realizar un ejercicio básico de un despliegue sobre la plataforma como servicio de IBM y el despliegue de una función en la plataforma Serverless de IBM.
 
